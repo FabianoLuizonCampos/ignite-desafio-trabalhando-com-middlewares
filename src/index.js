@@ -11,6 +11,7 @@ const users = [];
 
 function checksExistsUserAccount(request, response, next) {
   // Complete aqui
+  // Inicio
 }
 
 function checksCreateTodosUserAvailability(request, response, next) {
